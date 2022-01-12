@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-biuro-detektywistyczne/static/css/main.589b37df.css",
+    "main.js": "/react-biuro-detektywistyczne/static/js/main.69d22972.js",
+    "index.html": "/react-biuro-detektywistyczne/index.html",
+    "main.589b37df.css.map": "/react-biuro-detektywistyczne/static/css/main.589b37df.css.map",
+    "main.69d22972.js.map": "/react-biuro-detektywistyczne/static/js/main.69d22972.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.589b37df.css",
+    "static/js/main.69d22972.js"
+  ]
+}
