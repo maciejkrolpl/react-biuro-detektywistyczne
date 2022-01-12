@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(255,225,10) ;
+    margin: 0px;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.search {
+    background-color: rgb(142,86,86);
+    padding:5px;
+}
+
+.main-page {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+input#lost-thing, input[type="submit"] {
+    background-color: #aaffaa;
+}
+
+input#name, textarea {
+    background-color: #ffaaff;
+}
+
+.menu {
+    padding: 20px;
+}
+
+.content {
+    padding: 20px;
+}
+
+.header {
+    padding: 10px;
+    font-size: 24px;
+}
+
+.form-item {
+    display: flex;
+    flex-direction: row;
+}
